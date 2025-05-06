@@ -1,5 +1,9 @@
 it is test
 second test
 
+<<<<<<< HEAD
 new content
 one more content
+=======
+new content
+>>>>>>> 4f2687d82255f71ad7045df13448d44617aa2e97
